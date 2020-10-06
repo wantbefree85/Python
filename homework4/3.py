@@ -1,0 +1,1 @@
+print(list(num for num in range(20, 260) if num%20 == 0 or num%21 == 0))
