@@ -1,0 +1,5 @@
+Loginov 100000
+Bukharenko 70000
+Matveev 7000
+Losev 3000
+Shatonov 15000
